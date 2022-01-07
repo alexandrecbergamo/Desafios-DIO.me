@@ -1,10 +1,10 @@
-# Olá eu sou o Alexandre! ???????
+# Desafios feito pela plataforma Digital Innovation One
 
-#### Fique à vontade, aqui você vai poder acompanhar o que estou fazendo no momento.
+Dentro da plataforma DIO, existe o Labs com vários projetos para praticar na prática as principais técnicas e tecnologias utilizadas no mercado.
 
-# ?? O que estou fazendo no momento
 
-#### Nesse momento estou fazendo o Bootcamp para desenvolvimento Full Stack da Eduzz, na plataforma DIO (Digital Innovation One).
 
-#### Estou aprendendo as seguintes linguagens no Bootcamp:
+### ? Links Rápidos para alguns projetos feitos:
+
+?	**? Gerenciador de pedidos de um restaurante: ** 
 
